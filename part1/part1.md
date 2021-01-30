@@ -13,8 +13,8 @@
 13. 
     1.  a) student.name 
     2.  b) student["Grad Year"] 
-    3.  c) student.greeting, d)   
-    4.  student.greeting.name  
+    3.  c) student.["Favorite Teacher"]["name"]   
+    4.  d) student.greeting.name  
     5.  e) student.courseLoad[0]
 14.  
      1.  a) '32'- the plus sign can also be interpreted as a concatenation so 2 got concatenated to 3
